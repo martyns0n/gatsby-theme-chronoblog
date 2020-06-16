@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-theme-chronoblog-workspace",
+  "name": "gatsby-theme-someta",
   "private": true,
   "license": "MIT",
-  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "author": "Martyn Son <zogacc@gmail.com>",
   "workspaces": [
     "packages/*",
     "starters/*",
